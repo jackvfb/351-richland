@@ -1,11 +1,6 @@
 ---
-title: "351-richland"
+title: "351 Richland Avenue, San Francisco"
+subtitle: "Original Feel & Modern Ammenities in the Homely Heart of Bernal Heights!"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to 351 Richland Avenue, a modernized Edwardian classic, preserving the classic feel of its 120 year old vintage, with a completely modernized suite of amenities to parallel your modern lifestyle.
