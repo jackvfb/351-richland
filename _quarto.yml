@@ -17,5 +17,8 @@ format:
 
 execute: 
   freeze: auto
+  
+website:
+  google-analytics: "G-LDTXPT6F25""
 
 
