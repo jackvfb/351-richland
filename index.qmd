@@ -1,6 +1,13 @@
 ---
 title: "351 Richland Avenue, San Francisco"
 subtitle: "Original Feel & Modern Ammenities in the Homely Heart of Bernal Heights!"
+lightbox: true
 ---
 
 Welcome to 351 Richland Avenue, a modernized Edwardian classic, preserving the classic feel of its 120 year old vintage, with a completely modernized suite of amenities to parallel your modern lifestyle.
+
+![](pics/DSC02412.JPG){width="80%" fig-align="center"}
+
+![](pics/DSC02414.jpg){width="80%" fig-align="center"}
+
+![](pics/DSC02417.JPG){width="80%" fig-align="center"}
